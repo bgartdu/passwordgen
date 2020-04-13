@@ -1,5 +1,7 @@
 # 03 JavaScript: Password Generator
 
+I found this assignment quite challenging and needed assistance from a tutor, I did learn a lot though!
+
 [ ] Array of special characters to be included in password
 [ ] Array of numeric characters to be included in password
 [ ] Array of lowercase characters to be included in password
